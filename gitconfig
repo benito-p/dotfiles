@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = benoit.pype@gmail.com
+	name = benoit pype
